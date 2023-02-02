@@ -3,6 +3,8 @@ A BD/SP save with all event deoxys from gen 1-8
 
 *This project is apart of project cherish, which is dedicated to making save files with events of specifc pokemon
 
+[ LIST OF DEOXYS ]
+
 >GEN 3 DEOXYS
 - Space C deoxys
 - DOEL Deoxys
